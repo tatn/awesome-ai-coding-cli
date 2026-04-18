@@ -15,8 +15,8 @@
 | [OpenAI Codex](https://github.com/openai/codex) | ![](https://img.shields.io/github/stars/openai/codex?20260418) | ChatGPT | Free: $0/mo<br/>Plus: $20/mo<br/>Pro 5x: $100/mo<br/>Pro 20x: $200/mo<br/>Business: $30/mo |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260418) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260418) | Multi |  |
-| [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260418) | Multi |   |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260418) | Qwen | Free: $0/mo<br/>Alibaba Cloud Coding Plan: $50/mo |
+| [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260418) | Multi |   |
 | [Kilo - CLI](https://kilo.ai/cli)| ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?20260418)  | Multi |Free: $0/mo<br/>Starter: $19/mo<br/>Pro: $49/mo<br/>Expert: $199/mo |
 | [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260418) | Multi | Free: $0/mo<br/>Pro $10/mo<br/>Pro+ $39/mo<br/>Business $19/mo<br/>Enterprise $39/mo |
 | [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260418) | Kimi | Moderato: $19/mo<br/>Allegretto: $39/mo<br/>Allegro: $99/mo<br/>Vivace: $199/mo |

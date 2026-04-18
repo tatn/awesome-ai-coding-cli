@@ -16,8 +16,8 @@
 | [OpenAI Codex](https://github.com/openai/codex) | ![](https://img.shields.io/github/stars/openai/codex?20260418) | ChatGPT | 無料: 0円/月<br/>Plus: 3000円/月<br/>Pro 5x: 16800円/月<br/>Pro 20x: 30000円/月<br/>Business: 3850円/月 |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260418) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260418) | Multi |  |
-| [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260418) | Multi |   |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260418) | Qwen | 無料: $0/月<br/> Alibaba Cloud Coding Plan: $50/月 |
+| [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260418) | Multi |   |
 | [Kilo - CLI](https://kilo.ai/cli)| ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?20260418)  | Multi |無料: $0/月<br/>Starter: $19/月<br/>Pro: $49/月<br/>Expert: $199/月 |
 | [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260418) | Multi | 無料: $0/月<br/>Pro $10/月<br/> Pro+ $39/月<br/> Business $19/月<br/> Enterprise $39/月 |
 | [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260418) | Kimi | Moderato: $19/月<br />Allegretto: $39/月<br />Allegro: $99/月<br />Vivace: $199/月 |
