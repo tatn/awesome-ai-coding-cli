@@ -1,4 +1,4 @@
-# Awesome AI Coding CLIs
+# Awesome AI コーディング CLI
 
 <p align="center">
   <a href="README.md">English</a> |
