@@ -1,0 +1,58 @@
+name: Update README timestamp
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'  # 3日毎（UTC）
+  workflow_dispatch:
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-slim
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Update timestamp and image dates
+        run: |
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          DATE_SUFFIX=$(date -u '+%Y%m%d')
+
+          for FILE in README.md README.ja.md; do
+            if [ ! -f "$FILE" ]; then
+              continue
+            fi
+
+            # Update ?YYYYMMDD cache-busting suffix on shields.io URLs
+            sed -i "s/?\([0-9]\{8\}\)/?${DATE_SUFFIX}/g" "$FILE"
+
+            # Update "Last updated:" line
+            if grep -q "^Last updated:" "$FILE"; then
+              sed -i "s|^Last updated:.*|Last updated: ${TIMESTAMP}|" "$FILE"
+            else
+              echo "" >> "$FILE"
+              echo "Last updated: ${TIMESTAMP}" >> "$FILE"
+            fi
+          done
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "${{ secrets.GIT_USER_NAME }}"
+          git config user.email "${{ secrets.GIT_USER_EMAIL }}"
+
+          if git diff --quiet README.md README.ja.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add README.md README.ja.md
+          git commit -m "chore: update README timestamp [skip ci]"
+          git push
