@@ -22,7 +22,7 @@
 | [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260604) | Multi | Free: $0/mo<br/>Pro $10/mo<br/>Pro+ $39/mo<br/>Business $19/mo<br/>Enterprise $39/mo |
 | [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260604) | Kimi | Moderato: $19/mo<br/>Allegretto: $39/mo<br/>Allegro: $99/mo<br/>Vivace: $199/mo |
 | [ForgeCode](https://github.com/tailcallhq/forgecode) | ![](https://img.shields.io/github/stars/tailcallhq/forgecode?20260604) | Multi |  |
-| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260604) | Multi | GO: $1/mo<br/>PRO: $15/mo<br/>MAX: $100/mo<br/>ULTRA: 200/mo |
+| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260604) | Multi | GO: $1/mo<br/>PRO: $15/mo<br/>MAX: $100/mo<br/>ULTRA: $200/mo |
 | [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20260604) | MiniMax | Plus: $40/mo<br/>Max: $80/mo<br/>Ultra: $150/mo |
 
 
