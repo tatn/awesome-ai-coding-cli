@@ -37,11 +37,11 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/?type=date&legend=top-left&repos=anomalyco%2Fopencode%2Canthropics%2Fclaude-code%2Cgoogle-gemini%2Fgemini-cli%2Copenai%2Fcodex%2Cgithub%2Fcopilot-cli">
+<a href="https://www.star-history.com/?repos=anomalyco%2Fopencode%2Canthropics%2Fclaude-code%2Cgoogle-gemini%2Fgemini-cli%2Copenai%2Fcodex%2Cearendil-works%2Fpi&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cgithub/copilot-cli&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cgithub/copilot-cli&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cgithub/copilot-cli&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
  </picture>
 </a>
 
