@@ -14,6 +14,7 @@
 | [Claude Code](https://github.com/anthropics/claude-code) | ![](https://img.shields.io/github/stars/anthropics/claude-code?20260604) | Anthropic | Pro: $17/月<br/>Max 5x: $100/月<br/>Max 20x: $200/月 |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260604) | Gemini | 無料: 0円/月<br/>Pro: 2900円/月<br/>Ultra: 36400円/月 |
 | [OpenAI Codex](https://github.com/openai/codex) | ![](https://img.shields.io/github/stars/openai/codex?20260604) | ChatGPT | 無料: 0円/月<br/>Plus: 3000円/月<br/>Pro 5x: 16800円/月<br/>Pro 20x: 30000円/月<br/>Business: 3850円/月 |
+| [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260604) | Multi |  |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260604) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260604) | Multi |  |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260604) | Qwen | 無料: $0/月<br/> Alibaba Cloud Coding Plan: $50/月 |
@@ -22,6 +23,7 @@
 | [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260604) | Multi | 無料: $0/月<br/>Pro $10/月<br/> Pro+ $39/月<br/> Business $19/月<br/> Enterprise $39/月 |
 | [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260604) | Kimi | Moderato: $19/月<br />Allegretto: $39/月<br />Allegro: $99/月<br />Vivace: $199/月 |
 | [ForgeCode](https://github.com/tailcallhq/forgecode) | ![](https://img.shields.io/github/stars/tailcallhq/forgecode?20260604) | Multi |  |
+| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260604) | Multi | GO: $1/月<br/>PRO: $15/月<br/>MAX: $100/月<br/>ULTRA: $200/月 |
 | [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20260604) | MiniMax | Plus: $40/月<br />Max: $80/月<br />Ultra: $150/月 |
 
 
@@ -34,15 +36,17 @@
 | [Factory CLI](https://factory.ai/product/cli)|  Multi | Pro: $20/月<br/>Max: $200/月 |
 | [Amp](https://ampcode.com/manual)|  Multi |  |
 
+
 ## Star History
 
-<a href="https://www.star-history.com/?type=date&legend=top-left&repos=anomalyco%2Fopencode%2Canthropics%2Fclaude-code%2Cgoogle-gemini%2Fgemini-cli%2Copenai%2Fcodex%2Cgithub%2Fcopilot-cli">
+<a href="https://www.star-history.com/?repos=anomalyco%2Fopencode%2Canthropics%2Fclaude-code%2Cgoogle-gemini%2Fgemini-cli%2Copenai%2Fcodex%2Cearendil-works%2Fpi&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cgithub/copilot-cli&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cgithub/copilot-cli&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cgithub/copilot-cli&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
  </picture>
 </a>
+
 
 ## BenchMark
 - [Scale Labs Leaderboard: SWE-Bench Pro (Private Dataset)](https://labs.scale.com/leaderboard/swe_bench_pro_private)
