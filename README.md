@@ -9,21 +9,21 @@
 
 | URL | Stars | Provider | Subscription |
 | ---- | ---- | ---- | ---- |
-| [OpenCode](https://github.com/anomalyco/opencode) | ![](https://img.shields.io/github/stars/anomalyco/opencode?20260622) | Multi | GO: $10/mo |
-| [Claude Code](https://github.com/anthropics/claude-code) | ![](https://img.shields.io/github/stars/anthropics/claude-code?20260622) | Anthropic | Pro: $17/mo<br/>Max 5x: $100/mo<br/>Max 20x: $200/mo |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260622) | Gemini | Free: $0/mo<br/>Pro: $19.99/mo<br/>Ultra: $249.99/mo |
-| [OpenAI Codex](https://github.com/openai/codex) | ![](https://img.shields.io/github/stars/openai/codex?20260622) | ChatGPT | Free: $0/mo<br/>Plus: $20/mo<br/>Pro 5x: $100/mo<br/>Pro 20x: $200/mo<br/>Business: $30/mo |
-| [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260622) | Multi |  |
-| [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260622) | Multi |  |
-| [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260622) | Multi |  |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260622) | Qwen | Free: $0/mo<br/>Alibaba Cloud Coding Plan: $50/mo |
-| [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260622) | Multi |   |
-| [Kilo - CLI](https://kilo.ai/cli)| ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?20260622)  | Multi |Free: $0/mo<br/>Starter: $19/mo<br/>Pro: $49/mo<br/>Expert: $199/mo |
-| [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260622) | Multi | Free: $0/mo<br/>Pro $10/mo<br/>Pro+ $39/mo<br/>Business $19/mo<br/>Enterprise $39/mo |
-| [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260622) | Kimi | Moderato: $19/mo<br/>Allegretto: $39/mo<br/>Allegro: $99/mo<br/>Vivace: $199/mo |
-| [ForgeCode](https://github.com/tailcallhq/forgecode) | ![](https://img.shields.io/github/stars/tailcallhq/forgecode?20260622) | Multi |  |
-| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260622) | Multi | GO: $1/mo<br/>PRO: $15/mo<br/>MAX: $100/mo<br/>ULTRA: $200/mo |
-| [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20260622) | MiniMax | Plus: $40/mo<br/>Max: $80/mo<br/>Ultra: $150/mo |
+| [OpenCode](https://github.com/anomalyco/opencode) | ![](https://img.shields.io/github/stars/anomalyco/opencode?20260625) | Multi | GO: $10/mo |
+| [Claude Code](https://github.com/anthropics/claude-code) | ![](https://img.shields.io/github/stars/anthropics/claude-code?20260625) | Anthropic | Pro: $17/mo<br/>Max 5x: $100/mo<br/>Max 20x: $200/mo |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260625) | Gemini | Free: $0/mo<br/>Pro: $19.99/mo<br/>Ultra: $249.99/mo |
+| [OpenAI Codex](https://github.com/openai/codex) | ![](https://img.shields.io/github/stars/openai/codex?20260625) | ChatGPT | Free: $0/mo<br/>Plus: $20/mo<br/>Pro 5x: $100/mo<br/>Pro 20x: $200/mo<br/>Business: $30/mo |
+| [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260625) | Multi |  |
+| [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260625) | Multi |  |
+| [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260625) | Multi |  |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260625) | Qwen | Free: $0/mo<br/>Alibaba Cloud Coding Plan: $50/mo |
+| [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260625) | Multi |   |
+| [Kilo - CLI](https://kilo.ai/cli)| ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?20260625)  | Multi |Free: $0/mo<br/>Starter: $19/mo<br/>Pro: $49/mo<br/>Expert: $199/mo |
+| [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260625) | Multi | Free: $0/mo<br/>Pro $10/mo<br/>Pro+ $39/mo<br/>Business $19/mo<br/>Enterprise $39/mo |
+| [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260625) | Kimi | Moderato: $19/mo<br/>Allegretto: $39/mo<br/>Allegro: $99/mo<br/>Vivace: $199/mo |
+| [ForgeCode](https://github.com/tailcallhq/forgecode) | ![](https://img.shields.io/github/stars/tailcallhq/forgecode?20260625) | Multi |  |
+| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260625) | Multi | GO: $1/mo<br/>PRO: $15/mo<br/>MAX: $100/mo<br/>ULTRA: $200/mo |
+| [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20260625) | MiniMax | Plus: $40/mo<br/>Max: $80/mo<br/>Ultra: $150/mo |
 
 
 ## Closed Source / Proprietary
@@ -51,4 +51,4 @@
 - [Terminal-Bench](https://www.tbench.ai/)
 - [SWE-bench Leaderboards](https://www.swebench.com/)
 
-Last updated: 2026-06-22 01:06:26 UTC
+Last updated: 2026-06-25 00:57:49 UTC
