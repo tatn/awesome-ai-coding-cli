@@ -27,6 +27,12 @@
 | [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20260816) | MiniMax | Plus: $40/月<br />Max: $80/月<br />Ultra: $150/月 |
 
 
+## QA コンパニオン CLI
+
+| ツール | スター数 | 用途 | コストに関する注記 |
+| ---- | ---- | ---- | ---- |
+| [Agent QA](https://github.com/vostride/agent-qa) | ![](https://img.shields.io/github/stars/vostride/agent-qa?20260816) | 自然言語による Web・モバイル回帰テスト用 CLI／MCP サーバー | ソース公開型。モデル、ブラウザ、デバイスのプロバイダー料金が発生する場合があります |
+
 ## Closed Source / Proprietary
 
 | URL | プロバイダー | サブスクリプション |
