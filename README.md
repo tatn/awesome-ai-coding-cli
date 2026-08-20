@@ -16,14 +16,16 @@
 | [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260819) | Multi |  |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260819) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260819) | Multi |  |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260819) | Qwen | Free: $0/mo<br/>Alibaba Cloud Coding Plan: $50/mo |
 | [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260819) | Multi |   |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260819) | Qwen | Free: $0/mo<br/>Alibaba Cloud Coding Plan: $50/mo |
 | [Kilo - CLI](https://kilo.ai/cli)| ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?20260819)  | Multi |Free: $0/mo<br/>Starter: $19/mo<br/>Pro: $49/mo<br/>Expert: $199/mo |
+| [Grok Build](https://github.com/xai-org/grok-build) | ![](https://img.shields.io/github/stars/xai-org/grok-build?20260819) | xAI | SuperGrok: $30/mo<br/>X Premium+: $40/mo |
 | [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260819) | Multi | Free: $0/mo<br/>Pro $10/mo<br/>Pro+ $39/mo<br/>Business $19/mo<br/>Enterprise $39/mo |
 | [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260819) | Kimi | Moderato: $19/mo<br/>Allegretto: $39/mo<br/>Allegro: $99/mo<br/>Vivace: $199/mo |
 | [ForgeCode](https://github.com/tailcallhq/forgecode) | ![](https://img.shields.io/github/stars/tailcallhq/forgecode?20260819) | Multi |  |
-| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260819) | Multi | GO: $1/mo<br/>PRO: $15/mo<br/>MAX: $100/mo<br/>ULTRA: $200/mo |
+| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260819) | Multi | GO: $1/mo<br/>GOAT: $10/mo<br/>PRO: $20/mo<br/>MAX: $100/mo<br/>ULTRA: $200/mo |
 | [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20260819) | MiniMax | Plus: $40/mo<br/>Max: $80/mo<br/>Ultra: $150/mo |
+| [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) | ![](https://img.shields.io/github/stars/google-antigravity/antigravity-cli?20260819) | Google | Free: $0/mo<br/>Google AI Pro: $20/mo<br/>Google AI Ultra 5x: $100/mo<br/>Google AI Ultra 20x: $200/mo |
 
 
 ## Closed Source / Proprietary
@@ -34,16 +36,6 @@
 | [Kiro CLI](https://kiro.dev/cli/)|  Multi | Free: $0/mo<br/>PRO: $20/mo<br/>PRO+: $40/mo<br/>POWER: $200/mo |
 | [Factory CLI](https://factory.ai/product/cli)|  Multi | Pro: $20/mo<br/>Max: $200/mo |
 | [Amp](https://ampcode.com/manual)|  Multi |  |
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=anomalyco%2Fopencode%2Canthropics%2Fclaude-code%2Cgoogle-gemini%2Fgemini-cli%2Copenai%2Fcodex%2Cearendil-works%2Fpi&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
- </picture>
-</a>
 
 ## BenchMark
 - [Scale Labs Leaderboard: SWE-Bench Pro (Private Dataset)](https://labs.scale.com/leaderboard/swe_bench_pro_private)

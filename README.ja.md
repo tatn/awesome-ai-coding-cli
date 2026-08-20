@@ -17,14 +17,16 @@
 | [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260819) | Multi |  |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260819) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260819) | Multi |  |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260819) | Qwen | 無料: $0/月<br/> Alibaba Cloud Coding Plan: $50/月 |
 | [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260819) | Multi |   |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260819) | Qwen | 無料: $0/月<br/> Alibaba Cloud Coding Plan: $50/月 |
 | [Kilo - CLI](https://kilo.ai/cli)| ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?20260819)  | Multi |無料: $0/月<br/>Starter: $19/月<br/>Pro: $49/月<br/>Expert: $199/月 |
+| [Grok Build](https://github.com/xai-org/grok-build) | ![](https://img.shields.io/github/stars/xai-org/grok-build?20260819) | xAI | SuperGrok: $30/月<br/>X Premium+: $40/月 |
 | [GitHub Copilot CLI](https://github.com/github/copilot-cli) | ![](https://img.shields.io/github/stars/github/copilot-cli?20260819) | Multi | 無料: $0/月<br/>Pro $10/月<br/> Pro+ $39/月<br/> Business $19/月<br/> Enterprise $39/月 |
 | [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) | ![](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?20260819) | Kimi | Moderato: $19/月<br />Allegretto: $39/月<br />Allegro: $99/月<br />Vivace: $199/月 |
 | [ForgeCode](https://github.com/tailcallhq/forgecode) | ![](https://img.shields.io/github/stars/tailcallhq/forgecode?20260819) | Multi |  |
-| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260819) | Multi | GO: $1/月<br/>PRO: $15/月<br/>MAX: $100/月<br/>ULTRA: $200/月 |
+| [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20260819) | Multi | GO: $1/月<br/>GOAT: $10/月<br/>PRO: $20/月<br/>MAX: $100/月<br/>ULTRA: $200/月 |
 | [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20260819) | MiniMax | Plus: $40/月<br />Max: $80/月<br />Ultra: $150/月 |
+| [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) | ![](https://img.shields.io/github/stars/google-antigravity/antigravity-cli?20260819) | Google | 無料: $0/月<br/>Google AI Pro: $20/月<br/>Google AI Ultra 5x: $100/月<br/>Google AI Ultra 20x: $200/月 |
 
 
 ## Closed Source / Proprietary
@@ -35,17 +37,6 @@
 | [Kiro CLI](https://kiro.dev/cli/)|  Multi | 無料: $0/月<br/>PRO: $20/月<br/>PRO+: $40/月<br/>POWER: $200/月 |
 | [Factory CLI](https://factory.ai/product/cli)|  Multi | Pro: $20/月<br/>Max: $200/月 |
 | [Amp](https://ampcode.com/manual)|  Multi |  |
-
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=anomalyco%2Fopencode%2Canthropics%2Fclaude-code%2Cgoogle-gemini%2Fgemini-cli%2Copenai%2Fcodex%2Cearendil-works%2Fpi&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=anomalyco/opencode%2Canthropics/claude-code%2Cgoogle-gemini/gemini-cli%2Copenai/codex%2Cearendil-works/pi&type=date&legend=top-left" />
- </picture>
-</a>
 
 
 ## BenchMark
