@@ -12,8 +12,8 @@
 | ---- | ---- | ---- | ---- |
 | [OpenCode](https://github.com/anomalyco/opencode) | ![](https://img.shields.io/github/stars/anomalyco/opencode?20260828) | Multi | GO: $10/月 |
 | [Claude Code](https://github.com/anthropics/claude-code) | ![](https://img.shields.io/github/stars/anthropics/claude-code?20260828) | Anthropic | Pro: $17/月<br/>Max 5x: $100/月<br/>Max 20x: $200/月 |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260828) | Gemini | 無料: 0円/月<br/>Pro: 2900円/月<br/>Ultra: 36400円/月 |
 | [OpenAI Codex](https://github.com/openai/codex) | ![](https://img.shields.io/github/stars/openai/codex?20260828) | ChatGPT | 無料: 0円/月<br/>Plus: 3000円/月<br/>Pro 5x: 16800円/月<br/>Pro 20x: 30000円/月<br/>Business: 3850円/月 |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260828) | Gemini | 無料: 0円/月<br/>Pro: 2900円/月<br/>Ultra: 36400円/月 |
 | [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260828) | Multi |  |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260828) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260828) | Multi |  |

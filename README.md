@@ -11,8 +11,8 @@
 | ---- | ---- | ---- | ---- |
 | [OpenCode](https://github.com/anomalyco/opencode) | ![](https://img.shields.io/github/stars/anomalyco/opencode?20260828) | Multi | GO: $10/mo |
 | [Claude Code](https://github.com/anthropics/claude-code) | ![](https://img.shields.io/github/stars/anthropics/claude-code?20260828) | Anthropic | Pro: $17/mo<br/>Max 5x: $100/mo<br/>Max 20x: $200/mo |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260828) | Gemini | Free: $0/mo<br/>Pro: $19.99/mo<br/>Ultra: $249.99/mo |
 | [OpenAI Codex](https://github.com/openai/codex) | ![](https://img.shields.io/github/stars/openai/codex?20260828) | ChatGPT | Free: $0/mo<br/>Plus: $20/mo<br/>Pro 5x: $100/mo<br/>Pro 20x: $200/mo<br/>Business: $30/mo |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260828) | Gemini | Free: $0/mo<br/>Pro: $19.99/mo<br/>Ultra: $249.99/mo |
 | [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260828) | Multi |  |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260828) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260828) | Multi |  |
