@@ -28,6 +28,12 @@
 | [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) | ![](https://img.shields.io/github/stars/google-antigravity/antigravity-cli?20260904) | Google | Free: $0/mo<br/>Google AI Pro: $20/mo<br/>Google AI Ultra 5x: $100/mo<br/>Google AI Ultra 20x: $200/mo |
 
 
+## QA Companion CLI
+
+| Tool | Stars | Role | Cost notes |
+| ---- | ---- | ---- | ---- |
+| [Agent QA](https://github.com/vostride/agent-qa) | ![](https://img.shields.io/github/stars/vostride/agent-qa?20260816) | Natural-language web and mobile regression CLI and MCP server | Source-available; model, browser, or device-provider charges may apply |
+
 ## Closed Source / Proprietary
 
 | URL | Provider | Subscription |
