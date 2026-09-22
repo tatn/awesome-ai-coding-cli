@@ -15,6 +15,7 @@
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ![](https://img.shields.io/github/stars/google-gemini/gemini-cli?20260922) | Gemini | Free: $0/mo<br/>Pro: $19.99/mo<br/>Ultra: $249.99/mo |
 | [pi](https://github.com/earendil-works/pi) | ![](https://img.shields.io/github/stars/earendil-works/pi?20260922) | Multi |  |
 | [goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?20260922) | Multi |  |
+| [molt](https://github.com/solvyxtech/molt) | ![](https://img.shields.io/github/stars/solvyxtech/molt?20260922) | Multi |  |
 | [Claude Code Router](https://github.com/musistudio/claude-code-router) | ![](https://img.shields.io/github/stars/musistudio/claude-code-router?20260922) | Multi |  |
 | [Crush](https://github.com/charmbracelet/crush) | ![](https://img.shields.io/github/stars/charmbracelet/crush?20260922) | Multi |   |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | ![](https://img.shields.io/github/stars/QwenLM/qwen-code?20260922) | Qwen | Free: $0/mo<br/>Alibaba Cloud Coding Plan: $50/mo |
