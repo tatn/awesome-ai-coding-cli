@@ -29,7 +29,7 @@
 | [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20261022) | Multi | GO: $1/月<br/>GOAT: $10/月<br/>PRO: $20/月<br/>MAX: $100/月<br/>ULTRA: $200/月 |
 | [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) | ![](https://img.shields.io/github/stars/google-antigravity/antigravity-cli?20261022) | Google | 無料: $0/月<br/>Google AI Pro: $20/月<br/>Google AI Ultra 5x: $100/月<br/>Google AI Ultra 20x: $200/月 |
 | [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20261022) | MiniMax | Plus: $40/月<br />Max: $80/月<br />Ultra: $150/月 |
-
+| [Oh My Hermes（Hermes Agent プラグイン）](https://github.com/rlaope/oh-my-hermes) | ![](https://img.shields.io/github/stars/rlaope/oh-my-hermes?20261022) | Multi（Hermes Agent 経由） | 無料（MIT）、モデル利用料は別途 |
 
 ## Closed Source / Proprietary
 

@@ -28,6 +28,7 @@
 | [Command Code](https://github.com/CommandCodeAI/command-code) | ![](https://img.shields.io/github/stars/CommandCodeAI/command-code?20261022) | Multi | GO: $1/mo<br/>GOAT: $10/mo<br/>PRO: $20/mo<br/>MAX: $100/mo<br/>ULTRA: $200/mo |
 | [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) | ![](https://img.shields.io/github/stars/google-antigravity/antigravity-cli?20261022) | Google | Free: $0/mo<br/>Google AI Pro: $20/mo<br/>Google AI Ultra 5x: $100/mo<br/>Google AI Ultra 20x: $200/mo |
 | [MiniMax CLI](https://github.com/MiniMax-AI/cli) | ![](https://img.shields.io/github/stars/MiniMax-AI/cli?20261022) | MiniMax | Plus: $40/mo<br/>Max: $80/mo<br/>Ultra: $150/mo |
+| [Oh My Hermes (Hermes Agent plugin)](https://github.com/rlaope/oh-my-hermes) | ![](https://img.shields.io/github/stars/rlaope/oh-my-hermes?20261022) | Multi (via Hermes Agent) | Free (MIT); model usage separate |
 
 ## Closed Source / Proprietary
 
